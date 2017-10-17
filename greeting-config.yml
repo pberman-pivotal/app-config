@@ -1,7 +1,7 @@
 #greeting config
 security:
   basic:
-    enabled: true # turn off securing our application endpoints
+    enabled: false # turn off securing our application endpoints
 
 management:
   security:
